@@ -24,7 +24,6 @@ To use this application:
 * Set up a Nexmo account
 * Purchase a Nexmo phone number
 * Create a Nexmo Voice application
-* Rename `.env.sample` to `.env` and update it with your Nexmo API credentials, including your Nexmo application ID
 * Start your ngrok server from the command line
 * Update the constant variables at the top of the `/app/controllers/call_controller.rb`:
   * `NEXMO_NUMBER`: Your Nexmo phone number
